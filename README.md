@@ -1,25 +1,26 @@
 <h2 align="left">Cuida 👀</h2>
 
 <h3 align="left">Estatísticas GitHub</h3>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AngeloMatos08&show_icons=true&theme=transparent" alt="Stats" />
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=AngeloMatos08&show_icons=true&theme=transparent&hide_border=true" alt="Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloMatos08&layout=compact&theme=transparent" alt="Top Languages" />
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloMatos08&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
 <h3 align="left">Linguagens</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+
 </p>
 
 <p align="center">
